@@ -20,6 +20,8 @@ open [https://abhithakur7080.github.io/react-album/](https://abhithakur7080.gith
 ## Features
 
 All the featuere works on temporary which is ADD, DELETE and UPDATE (except fetch).
+
+
 #### `fetch data`
 fetching data and showing albums on your browser using the API -> [https://jsonplaceholder.typicode.com/albums](https://jsonplaceholder.typicode.com/albums).
 
