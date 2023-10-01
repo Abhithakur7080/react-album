@@ -1,7 +1,7 @@
 //GETTING REACT COMPONENT
 import { Component } from 'react';
 //GETTING ROUTE COMPONENTS
-import { Route, Routes, HashRouter } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 //GETTING PAGE COMPONENTS
 import { Navbar } from './components/Navbar/navbar';
@@ -121,7 +121,7 @@ export default class App extends Component {
         <title>React Album</title>
         <meta name="description" content="React Album is an album store website where handle all add, delete and update albums" />
       </Helmet>
-      <HashRouter>
+      <Router>
         <Routes>
           {/* route main home page */}
           <Route path='/' element={
@@ -164,7 +164,7 @@ export default class App extends Component {
             </>
           }></Route>
         </Routes>
-      </HashRouter>
+      </Router>
       </>
     )
   }
