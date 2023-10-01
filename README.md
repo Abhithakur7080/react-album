@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Hosted On`
-open[] to view it in your browser
+open [https://abhithakur7080.github.io/react-album/](https://abhithakur7080.github.io/react-album/) to view it in your browser
 
 ## Features
 
