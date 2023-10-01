@@ -21,7 +21,7 @@ open [https://abhithakur7080.github.io/react-album/](https://abhithakur7080.gith
 
 All the featuere works on temporary which is ADD, DELETE and UPDATE (except fetch).
 #### `fetch data`
-fetching data and showing albums on your browser using the API -> [https://jsonplaceholder.typicode.com/albums].
+fetching data and showing albums on your browser using the API -> [https://jsonplaceholder.typicode.com/albums](https://jsonplaceholder.typicode.com/albums).
 
 #### `Add an album`
 Add an album, make 'POST' call to the API url(from where we are fetching) and save the album to react state(It is a dummy request data, we won't be able to add on the server data. But request is valid and will send some data.)
